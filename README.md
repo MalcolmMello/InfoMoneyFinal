@@ -33,9 +33,9 @@ Antes de começar, você vai precisar das seguintes ferramentas: [Git](https://g
 ### Rodando o projeto
 ```bash
 # Clone este repositório
-git clone https://github.com/MalcolmMello/InfoMoney
+git clone https://github.com/MalcolmMello/InfoMoneyFinal
 # Acesse a pasta do projeto pelo seu terminal
-cd InfoMoney
+cd InfoMoneyFinal
 
 # Instale as dependências
 npm install
@@ -57,4 +57,4 @@ npm start
 
 ---
 
-Feito por mim - [Meu LinkedIn](https://www.linkedin.com/in/malcolm-de-mello-a8208a224/)
+Feito por mim - Veja mais detalhadamente no [Meu LinkedIn](https://www.linkedin.com/in/malcolm-de-mello-a8208a224/)
